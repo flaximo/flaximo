@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @flaximo
+- 👀 I’m interested in Front end development and Android app development...
+- 🌱 I’m currently learning Computer Science and specializing mainly in Java...
+- 📫 You can find me on instagram @flaximo...
+
+<!---
+flaximo/flaximo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
